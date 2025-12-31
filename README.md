@@ -7,7 +7,7 @@ ERROR   : IDENTITY DESYNC
 
 <div align="center">
 
-<img src="assets/identity_buffer.png" width="520"/>
+<img src="assets/lain.jpeg" width="520"/>
 
 <p style="font-family: monospace; opacity: 0.55;">
 [ visual buffer // awaiting signal ]
