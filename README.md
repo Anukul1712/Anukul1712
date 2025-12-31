@@ -159,6 +159,11 @@ PRIMARY_NODES:
     label: "Environmental Modeling"
     status: ◉ ACTIVE
     desc: "simulating apocalypse"
+
+  - id: 004
+    label: "Quantum Computing"
+    status: ◉ EXPERIMENTAL
+    desc: "computing in superposition while reality decides"
 ```
 
 </td>
@@ -166,20 +171,25 @@ PRIMARY_NODES:
 
 ```yaml
 SECONDARY_NODES:
-  - id: 004
+  - id: 005
     label: "AI + Physical Reality"
     status: ◉ RESEARCH
     desc: "where silicon meets carbon"
     
-  - id: 005
+  - id: 006
     label: "Causality Theory"
     status: ◉ LEARNING
     desc: "why anything happens"
     
-  - id: 006
+  - id: 007
     label: "Chaos Architecture"
     status: ◉ EXPLORING
     desc: "the pattern beneath patterns"
+
+  - id: 008
+    label: "Biotech / Biomedical Systems"
+    status: ◉ RESEARCH
+    desc: "reading, rewriting, and debugging living code"
 ```
 
 </td>
