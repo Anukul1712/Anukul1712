@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="assets/lain.jpeg" width="580"/>
+<img src="assets/lain2.jpeg" width="580"/>
 
 ```
      ╔════════════════════════════════════════╗
