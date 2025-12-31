@@ -255,11 +255,15 @@ class TechStack:
 </div>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Anukul1712&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00FF00&fire=FF0000&currStreakLabel=00FF00"/>
+<a href="https://git.io/streak-stats">
+<img src="https://streak-stats.demolab.com/?user=Anukul1712&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00FF00&fire=FF0000&currStreakLabel=00FF00" alt="GitHub Streak"/>
+</a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anukul1712&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Anukul1712&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
+</a>
 </p>
 
 <div align="center">
