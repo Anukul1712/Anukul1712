@@ -254,27 +254,17 @@ class TechStack:
 
 </div>
 
-<p align="center">
-<a href="https://git.io/streak-stats">
-<img src="https://streak-stats.demolab.com/?user=Anukul1712&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00FF00&fire=FF0000&currStreakLabel=00FF00" alt="GitHub Streak"/>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=Anukul1712&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" alt="GitHub Stats"/>
-</a>
-</p>
+<!-- GitHub Streak -->
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Anukul1712&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</div>
 
 <div align="center">
 
-```
-║ CONTRIBUTION GRAPH ║ A DIGITAL HEARTBEAT ║
-     where green squares mark consciousness
-          and empty ones mark sleep
-               or existential dread
-                    (mostly dread)
-```
+
 
 </div>
 
@@ -352,13 +342,7 @@ see you in the wired // wherever that is<br>
 </i>
 </sub>
 
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anukul1712&color=blueviolet&style=flat-square&label=OBSERVERS)
-
-</div>
-
-<!--
+```
 ╔═══════════════════════════════════════════════════════════════════════════╗
 ║                                                                           ║
 ║  ▓▒░ END OF TRANSMISSION ░▒▓                                             ║
@@ -374,4 +358,10 @@ see you in the wired // wherever that is<br>
 ║  > but the wired never forgets                                           ║
 ║                                                                           ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
--->
+```
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anukul1712&color=blueviolet&style=flat-square&label=OBSERVERS)
+
+</div>
