@@ -272,9 +272,24 @@ class TechStack:
   />
 </div>
 
+<br>
+
 <div align="center">
 
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Anukul1712/Anukul1712/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Anukul1712/Anukul1712/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Anukul1712/Anukul1712/output/github-snake.svg"
+  />
+</picture>
 
 </div>
 
